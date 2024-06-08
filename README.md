@@ -1,7 +1,9 @@
-# Sobre Python
+# Welcome in Python
 
 ![Imagem_Python](https://github.com/fellipematos/about-python/raw/main/img/about-python-by-fellipe-matos.png)
 
+
+````
 # O que é Python?
 #### *Segundo seu criador:*
 
@@ -85,3 +87,4 @@ Type "help", "copyright", "credits" or "license" for more information.
  
 # Por que aprender Python?
 #### Porque o Python é uma das linguagens mais fáceis de se aprender, é gratuito e possui uma comunidade e biblioteca riquíssima.
+````
